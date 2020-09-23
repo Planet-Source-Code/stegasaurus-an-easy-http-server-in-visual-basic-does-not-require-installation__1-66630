@@ -1,0 +1,6 @@
+This is a simple demonstration of a webserver using Visual Basic 6.
+
+'''See also'''<br>
+-[[Info]]<br>
+-[[Copyright]]
+

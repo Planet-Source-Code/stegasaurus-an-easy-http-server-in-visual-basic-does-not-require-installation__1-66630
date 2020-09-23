@@ -1,0 +1,27 @@
+'''What is it?'''<br>
+It is a webserver, it basically allows you to have a web site on your computer. This one is useful because it requires no installation and is easy to use.
+
+'''So how do I use it?'''<br>
+First of all, start up the project, and hit run. Now open your favourite web browser, and type in the bar http://localhost/<br>
+This will take you straight to your site located in the folder \Files\ You can add or delete files as you wish.
+
+'''How can others see the contents of my web server?'''<br>
+Anyone on your local network can view files located in \Files\ by typing in the IP address that is shown during startup. If you feel like sharing your pages with the internet as a whole, find out what your IP address is from a site like http://www.whatismyipaddress.com/ or similar, and so-long as no firewalls stop it, then you can tell people on the internet to type that into their address bar and they should get your site.
+
+'''Can I change what port it runs on?'''<br>
+Yes, you can, simply change the constant "Serverport" (in frmMain) to the port number of your choice.
+
+'''Can I use your code in my own project?'''<br>
+Sure, go ahead, but be sure to adhere to [[Copyright|the copyright info]] if you plan on it.
+
+'''There is a feature I want, can you add it?'''<br>
+Why not ask me? e-mail me at Michael.billington@gmail.com or leave a note on the PSC page. You can do the same if you are looking for general help as well.
+
+'''Why does the documentation look so odd?'''<br>
+Because I didn't have time to do any real work on it, so I whipped it up using a client-side wiki that I made last month. Hence the footnote on all the pages. ;-)
+
+'''Further questions?'''<br>
+Send me an e-mail Michael.billington@gmail.com
+
+
+

@@ -1,0 +1,3 @@
+'''This software was created in 2006 by Michael Billington'''
+
+As copyright holder, I have released this code to the public domain. This basically means you can do wahtever you like with it, with no restrictions, unless they violate the law in your country. - I also encourage you to e-mail me if you make any improvements to the code at michael.billington@gmail.com
